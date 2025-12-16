@@ -1,0 +1,15 @@
+# --- IDE and Environment Files ---
+.vscode/          # VS Code project settings (user-specific)
+.ipynb_checkpoints/ # Jupyter Lab automatically created checkpoints/versions
+__pycache__/      # Python compiled bytecode files
+
+# --- Jupyter Notebook Specific ---
+# Temporary notebook files that can cause conflicts
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# --- General Python Files ---
+.env              # Environment variables
+.venv/             # Virtual environment folder (large and user-specific)
+/build/
+dist/
