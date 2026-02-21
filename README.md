@@ -20,13 +20,14 @@ The analysis was conducted using Python and Pandas for data processing and clean
 
 ## Visualizations
 
-![image.png](attachment:41dfa392-f0f1-4492-ae4f-7b29f3dd06fd:image.png)
+<img width="636" height="658" alt="image" src="https://github.com/user-attachments/assets/16e2ea5c-3ced-41a2-ac3e-bfa883b3bb00" />
 
-![image.png](attachment:718dea18-4749-4114-8399-ced46d22257a:image.png)
+<img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/d227c56f-73bf-4b37-8f6e-292c12a0e569" />
 
-![image.png](attachment:da3319e7-6988-4882-9cb1-85511a4affdb:image.png)
+<img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/b8360087-9168-4326-bb06-12379a737257" />
 
-![image.png](attachment:ad878d2f-fe88-427f-bf69-b3c723a53acb:image.png)
+<img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/edaa1eb5-c773-4d35-96eb-5cfe48655f1f" />
+
 
 ## Insights & Recommendations
 
